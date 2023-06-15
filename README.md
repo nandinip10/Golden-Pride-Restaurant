@@ -1,6 +1,16 @@
 # Landing Page
 Built a Modern UI/UX Restaurant Landing Page Website that is fully responsive.
 
+### Setting up the project
+1. Install all the dependencies
+```sh
+npm install
+```
+2. Run the website locally
+```sh
+npm start
+```
+
 ### Important Features Used
 - No external dependencies have benn used other than react-icons.
 - CSS properties that include flex & grid.
