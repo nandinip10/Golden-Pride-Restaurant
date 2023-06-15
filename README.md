@@ -1,6 +1,9 @@
 # Landing Page
 Built a Modern UI/UX Restaurant Landing Page Website that is fully responsive.
 
+### Deployed Link
+https://goldenpriderestaurant-nandinip10.vercel.app/
+
 ### Setting up the project
 1. Install all the dependencies
 ```sh
